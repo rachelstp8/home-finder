@@ -120,7 +120,8 @@ class Filter extends React.Component {
                 </div>
               </Cell>
               {/* Next step would be to fix bedroom filter. 
-              Add a filter on a map but location */}
+              Add a filter on a map but location. Also would add some jquery to add
+              transitions on the sorting */}
             </Grid>
           </form>
     )

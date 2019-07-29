@@ -6,7 +6,7 @@
     "bedroom": "2",
     "bathroom": "2",
     "address": "Brown Street",
-    "price": "254,950"
+    "price": "254950"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "bedroom": "4",
     "bathroom": "2",
     "address": "First Ave",
-    "price": "3,500,000"
+    "price": "3500000"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "bedroom": "3",
     "bathroom": "3",
     "address": "Bloor Street",
-    "price": "2,000,000"
+    "price": "2000000"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "bedroom": "4",
     "bathroom": "3",
     "address": "Dundas Street",
-    "price": "2,000,000"
+    "price": "2000000"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "bedroom": "3",
     "bathroom": "3",
     "address": "Eastlawn Street",
-    "price": "1,250,000"
+    "price": "1250000"
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "bedroom": "3",
     "bathroom": "2",
     "address": "Liberty Street",
-    "price": "1,075,034"
+    "price": "1075034"
   }
 ]
