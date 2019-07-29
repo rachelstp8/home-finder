@@ -29,6 +29,8 @@ class Filter extends React.Component {
         <form
             onChange={() => setTimeout(() => updateFilter(this.state), 0)}
             noValidate
+            // Everytime element changes, onchange is called, then updates filter 
+            // passing along the information
           >
           {/* Button to clear form */}
             <p className="mb-1">

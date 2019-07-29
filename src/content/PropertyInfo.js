@@ -34,6 +34,9 @@ export class PropertyListingsProvider extends React.Component {
   }
     componentDidMount() {
       // Grab content from the local server
+      // As a way to improve the project I would have an admin section to add or import
+      // the home data that way instead
+
       fetch('/server/listings.json')
         .then(res => res.json())
         .then(res => {
@@ -46,6 +49,7 @@ export class PropertyListingsProvider extends React.Component {
         filter
       })
     }
+    // Every time this function is called, filter component is re rendered
 
     state = DefaultState
 

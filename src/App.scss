@@ -1,8 +1,13 @@
 // Hero title
 .heroText{
-    padding-top: 100px;
+    padding: 50px 0 50px 0; 
     text-align: center;
+    @media screen and (min-width: 40em) {
+        padding: 100px 0 50px 0; 
+    }
 }
+
+// For Styling
 
 form{
     width:100%;
@@ -33,3 +38,6 @@ form{
     }
 
 }
+
+// In terms of growth for this project, 
+// each element could inport their own style sheet
