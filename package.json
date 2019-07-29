@@ -1,0 +1,42 @@
+{
+  "name": "home-finder",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "classnames": "^2.2.6",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-foundation": "^0.9.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.1.2"
+  },
+  "resolutions": {
+    "@babel/runtime": "7.0.0-beta.46"
+  },
+   "homepage" : "http://rachelstp8/home-finder/",
+  "description": "",
+  "main": "src/index.js",
+  "staticPath": "public"
+}

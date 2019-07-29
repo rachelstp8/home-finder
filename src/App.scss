@@ -1,0 +1,35 @@
+// Hero title
+.heroText{
+    padding-top: 100px;
+    text-align: center;
+}
+
+form{
+    width:100%;
+    .filterItem{
+        padding:10px;
+    }
+    [type=button]{
+        border: 1px solid grey;
+        padding: 8px;
+        margin-left: 5px;
+        &:hover{
+            background-color: lightgrey;
+            cursor: pointer;
+        }
+    }
+}
+
+/* Property Cards */
+
+.property{
+    padding:20px;
+    .card-header{
+        border:1px solid grey;
+        padding:10px;
+    }
+    .card-image{
+        border:1px solid grey;
+    }
+
+}
